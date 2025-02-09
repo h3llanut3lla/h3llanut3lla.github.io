@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://h3llanut3lla.github.io/sitemap-index.xml
+Host: https://h3llanut3lla.github.io
