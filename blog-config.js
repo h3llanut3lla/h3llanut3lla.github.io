@@ -31,4 +31,5 @@ module.exports = {
     lang: "en",
     crossorigin:"anonymous"
   },
+  gtag: "G-YMK4NV9MMM",
 }
