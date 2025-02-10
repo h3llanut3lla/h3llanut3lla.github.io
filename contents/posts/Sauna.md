@@ -9,7 +9,6 @@ tags:
   - DCSync
   - 윈도우즈
 ---
-
 ## Sauna 요약
 ![](https://velog.velcdn.com/images/h3llanut3lla/post/4a06e187-1d98-4268-9540-f1c4a459e2df/image.png)
 
