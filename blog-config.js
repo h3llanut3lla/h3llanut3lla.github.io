@@ -14,7 +14,7 @@ module.exports = {
     // blogger: "https://blogger.com",
     email: "mailto:hellanutella00@gmail.com",
     // resume: "https://hudi.blog",
-    link: "https://app.hackthebox.com/profile/74001",
+    //link: "https://app.hackthebox.com/profile/74001",
   },
   useAbout: false,
   // See https://giscus.app/
